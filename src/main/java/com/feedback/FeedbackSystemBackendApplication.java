@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class FeedbackSystemBackendApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(FeedbackSystemBackendApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(FeedbackSystemBackendApplication.class, args);
+    }
 }
